@@ -1,0 +1,12 @@
+# LaTeX 编译中间产物（可随时由源码重新生成，不入库）
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
